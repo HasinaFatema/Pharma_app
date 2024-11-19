@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612651030820",
+    "project_id": "curesync-79d8d",
+    "storage_bucket": "curesync-79d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612651030820:android:15c6578b6d7bd33b98bbb1",
+        "android_client_info": {
+          "package_name": "com.silicon.cure_sync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2syrTrk4_ZQ65OnDMsnYtoJ8fYubpvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
